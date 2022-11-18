@@ -1,0 +1,11 @@
+C:\Users\fasda\source\repos\TestSnake\bin\Debug\TestSnake.exe.config
+C:\Users\fasda\source\repos\TestSnake\bin\Debug\TestSnake.exe
+C:\Users\fasda\source\repos\TestSnake\bin\Debug\TestSnake.pdb
+C:\Users\fasda\source\repos\TestSnake\obj\Debug\TestSnake.csproj.AssemblyReference.cache
+C:\Users\fasda\source\repos\TestSnake\obj\Debug\TestSnake.csproj.SuggestedBindingRedirects.cache
+C:\Users\fasda\source\repos\TestSnake\obj\Debug\TestSnake.Form1.resources
+C:\Users\fasda\source\repos\TestSnake\obj\Debug\TestSnake.Properties.Resources.resources
+C:\Users\fasda\source\repos\TestSnake\obj\Debug\TestSnake.csproj.GenerateResource.cache
+C:\Users\fasda\source\repos\TestSnake\obj\Debug\TestSnake.csproj.CoreCompileInputs.cache
+C:\Users\fasda\source\repos\TestSnake\obj\Debug\TestSnake.exe
+C:\Users\fasda\source\repos\TestSnake\obj\Debug\TestSnake.pdb
